@@ -1,3 +1,5 @@
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)<br/>
+![Python Version](https://img.shields.io/badge/Version%20Supported-Python%203.x-blue)
 # IPTV-Link-Scraper
 IPTV-Link-Scraper scrapes IPTV links from https://streamtest.in/ and save them as m3u file.
 
