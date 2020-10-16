@@ -8,6 +8,9 @@ To install all the required modules use the following code:
 <br/>
 <b>pip install -r requirements.txt</b>
 
+# ✔️New Update
+* Now you can search for specific channel for scraping!
+
 # 📷Screenshots
 ![Commands](https://user-images.githubusercontent.com/68910039/94121617-65d5f100-fe06-11ea-9c3e-5f3add2e20c9.png)
 
