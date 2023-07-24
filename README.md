@@ -19,12 +19,4 @@ To install all the required modules use the following code:
 
 [![](https://img.shields.io/youtube/channel/subscribers/UCVGasc5jr45eZUpZNHvbtWQ?style=social)](https://www.youtube.com/channel/UCVGasc5jr45eZUpZNHvbtWQ)
 
-# My Telegram Channel
-[![](https://img.shields.io/badge/Telegram-Join%20Now-blue?style=for-the-badge&logo=Telegram)](https://t.me/cracked4free)
-
-### 💵 Donations (Optional)
-If you like my projects then consider making a small donation by clicking below button ^_^
-<br/>
-[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/paypalme/henryrics)
-
 #### Star the Repo in case you liked it :)
